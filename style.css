@@ -1,0 +1,8 @@
+body{
+  background-image: url("btc.png");
+  text-shadow: 1px 1px;
+}
+
+#calculate{
+  margin-left: 10px;
+}
